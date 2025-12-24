@@ -36,8 +36,3 @@ A lightweight desktop tool for **Twisted** that monitors the in-game **Thermodyn
 - Python 3.10+ recommended
 - Roblox (or Bloxstrap, optional)
 - **Tesseract OCR** installed
-
-### Python packages
-Install dependencies:
-```bash
-pip install pytesseract pillow pydirectinput
